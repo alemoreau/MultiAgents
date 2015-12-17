@@ -6,7 +6,7 @@
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
 	<RootNamespace></RootNamespace>
-	<ProjectGuid>{5B976D94-7195-0ACA-B3B7-5E99AAC5EC22}</ProjectGuid>
+	<ProjectGuid>{C904408F-748B-0DB4-C2E2-F7BDFE86166A}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<AssemblyName>Assembly-CSharp</AssemblyName>
@@ -48,11 +48,13 @@
      <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\BeeAction.cs" />
      <Compile Include="Assets\Scripts\BeeState.cs" />
+     <Compile Include="Assets\Scripts\DisplayInformations.cs" />
      <Compile Include="Assets\Scripts\Flower.cs" />
      <Compile Include="Assets\Scripts\FlowerBehaviour.cs" />
      <Compile Include="Assets\Scripts\FlowerManager.cs" />
      <Compile Include="Assets\Scripts\Hive.cs" />
      <Compile Include="Assets\Scripts\MoveCamera.cs" />
+     <None Include="Assets\Poq Xert\GUIBuilder\Readme.txt" />
      <None Include="Assets\shaderBlueFlower.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
